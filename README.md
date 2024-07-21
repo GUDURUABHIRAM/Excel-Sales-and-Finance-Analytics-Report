@@ -24,14 +24,13 @@ This project is focused on achieving the following key objectives:
  to aid in geographic regional breakdown of financial performance
      
 # Insights : 
-   - Top 10 products based on the percentage increase in their net sales from 2020 to 2021.
-   - "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
-   - Top 5 and bottom 5 Products in terms of quantity sold.
-   - New products that AtliQ began selling in 2021.
-   - Top 5 countries in terms of net sales in 2021
-   - All the business metrics like net sales,COGS,Gross Margin are peaked at november and december months and at the same time there is a significant decrease in the metrics between 2019 to 2021
-   - There is a significant decrease in Gross Margin Percentage over the fiscal years between 2019 to 2021
-
+   - AQ Master wireless x1 Ms product tops the list of products sold in terms of quantity
+   - AQ HOME Allin1 Gen 2 product bottoms the list of products sold in terms of quantity
+   - PC category have seen a significant increase of 313.7% in net sales percentage growth between 2020 and 2021
+   - AQ Qwerty product top the list of newly added products in 2021 with a net sales of 22.0M
+   - India emerges as the top country in 2021 with the net sales of 161.3M 
+   - All the business metrics like net sales,COGS,Gross Margin are peaked at october, november and december months in each fiscal year and at the same time it is observed that there is a significant decrease in the metrics for the fiscal years from 2019 to 2021
+     
 ## Technical & Soft Skills:
 - **Data Analysis Techniques :**	Proficiency in ETL methodology (Extract, Transform, Load).
 - **Power Query :** 	Skills to generate a date table using Power Query and strengthens ability to derive fiscal months and quarters.
