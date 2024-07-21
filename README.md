@@ -1,7 +1,7 @@
 # Excel-Sales-and-Finance-Analytics-Report
 # Project Objectives
 
-This project is focused on achieving the following key objectives:
+The objective of this project is to create a comprehensive sales and finance analytics report for AtliQ Hardwares company.This report helps in analysing the AtliQ Hardwares sales and financial performance for the fiscal years 2019,2020,2021 and helps in taking the data-driven decisions to drive business growth.
 
 ## Sales Report
 
